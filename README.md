@@ -1,4 +1,4 @@
-#🖌️ Flutter Drawing App
+🖌️ Flutter Drawing App
 
 This is a fun and interactive drawing app built using Flutter, designed primarily for kids. It allows users to draw on the screen using touch gestures and supports features like:
 
