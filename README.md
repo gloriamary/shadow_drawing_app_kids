@@ -1,4 +1,5 @@
-🖌️ Flutter Drawing App
+#🖌️ Flutter Drawing App
+
 This is a fun and interactive drawing app built using Flutter, designed primarily for kids. It allows users to draw on the screen using touch gestures and supports features like:
 
 ✨ Features:
@@ -33,6 +34,9 @@ bash
 Copy
 Edit
 git clone https://github.com/your-username/drawing_app.git
+
 cd drawing_app
+
 flutter pub get
+
 flutter run
